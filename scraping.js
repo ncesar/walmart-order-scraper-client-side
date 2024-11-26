@@ -13,13 +13,13 @@
             "accept-language": "en-US",
             cookie: cookies,
             "user-agent": navigator.userAgent,
-            "x-apollo-operation-name": "PurchaseHistoryV2",
-            "x-o-gql-query": "query PurchaseHistoryV2",
+            "x-apollo-operation-name": "PurchaseHistoryV2", // this can be flexibe and changed
+            "x-o-gql-query": "query PurchaseHistoryV2", // this can be flexibe and changed
             "x-o-bu": "WALMART-US",
             "x-o-ccm": "server",
             wm_mp: "true",
-            wm_page_url: "https://www.walmart.com/orders", // this can be flexibel and changed
-            referer: "https://www.walmart.com/orders", // this can be flexibel and changed
+            wm_page_url: "https://www.walmart.com/orders", // this can be flexibe and changed
+            referer: "https://www.walmart.com/orders", // this can be flexibe and changed
             "x-o-platform": "rweb",
             "x-o-platform-version": "us-web-1.171.4-22e8dcfe70ac4c2a97ebec1ee1cf1bdff5c8ff5d-112018",
             "x-o-segment": "oaoh",
